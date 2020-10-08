@@ -1,0 +1,18 @@
+
+#container{
+  /*container has to be relative so that the canvases can be positioned absolutly within the container
+  (as opposed to absolutley withing the whole document*/
+  position: relative;
+  margin: auto;
+  width: 70%;
+  height: 70%;
+}
+.canvas{
+  position: absolute;
+  margin: auto;
+  top: 20;
+}
+/*
+#canvas2{
+  top: 120;
+}*/
