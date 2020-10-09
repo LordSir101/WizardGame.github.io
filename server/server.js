@@ -50,6 +50,6 @@ server.on('error', (err) =>{
 //server.listen(3000, '205.211.159.164');
 
 //Home
-server.listen(3000, '192.168.46.1');
+server.listen(3000, 'https://lordsir101.github.io/WizardGame.github.io/');
 //To host, cd to C:\Users\100707158\Documents\ngrok-stable-windows-amd64 (1)
 //ngrok http 192.168.46.1:3000 to get a link
